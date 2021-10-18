@@ -42,10 +42,4 @@ export default {
   min-height: 100px;
   background-color: rgba(192, 192, 192, 0.3);
 }
-
-.mainClass {
-  min-height: 500px;
-  background-color: rgba(192, 192, 192, 0.3);
-}
-
 </style>

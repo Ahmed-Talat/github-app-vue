@@ -31,4 +31,9 @@ export default {
   font-size: 1.25rem;
   font-weight: bold;
 }
+
+.mainClass {
+  min-height: 500px;
+  background-color: rgba(192, 192, 192, 0.3);
+}
 </style>
