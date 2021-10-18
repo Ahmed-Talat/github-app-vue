@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-      <div className="header"></div>
+      <div class="header">GitHub Cards</div>
       <Form />
       <CardList />
   </div>
@@ -23,6 +23,7 @@ export default {
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
 }
+
 .header {
   text-align: center;
   font-size: 1.5rem;
@@ -49,5 +50,4 @@ form {
   display: flex;
   justify-content: center;
 }
-
 </style>
